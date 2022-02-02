@@ -10,3 +10,4 @@
 
 Приятной игры!
 ^_^
+![Screenshot](https://user-images.githubusercontent.com/98776610/152227331-912c29d9-9313-444b-ac57-8762da948526.jpg)
